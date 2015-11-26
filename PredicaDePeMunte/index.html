@@ -6,13 +6,39 @@
 
     <!-- PredicaDePeMunte references -->
     <link href="css/index.css" rel="stylesheet" />
+    <link href="css/bootstrap.css" rel="stylesheet" />
 </head>
 <body>
-    <h1>Predica de pe munte</h1>
-    <a href="Matei5.html">Matei 5 - Predica de pe Munte; Fericirile. Apostolii sunt sarea pământului şi lumina lumii. Plinirea legii. Iubirea de vrăjmaşi.</a>
-    <a href="Matei6.html">Matei 6 - Milostenia. Rugăciunea Domnească. Iertarea şi postul. Dumnezeu şi Mamona. Nesocotirea celor lumeşti.</a>
-    <a href="Matei7.html">Matei 7 - Judecarea fratelui. Puterea stăruinţei în rugăciune. Cele două căi. Ferirea de profeţii mincinoşi. Cele două temelii.</a>
-    <a href="Explicatii.html">Părintele Bartolomeu explică</a>
+    <div class="container-fluid">
+        <h1 class="text-center">Predica de pe munte</h1>
+        <div class="row">
+            <button class="col-xs-12" onclick="location.href = 'Matei5.html'">
+                Matei 5 - Predica de pe Munte; Fericirile. Apostolii sunt sarea pământului şi lumina lumii. Plinirea legii. Iubirea de vrăjmaşi.
+            </button>
+        </div>
+        <div class="row top-buffer">
+            <button class="col-xs-12" onclick="location.href = 'Matei6.html'">
+                Matei 6 - Milostenia. Rugăciunea Domnească. Iertarea şi postul. Dumnezeu şi Mamona. Nesocotirea celor lumeşti.
+            </button>
+        </div>
+        <div class="row top-buffer">
+            <button class="col-xs-12" onclick="location.href = 'Matei7.html'">
+                Matei 7 - Judecarea fratelui. Puterea stăruinţei în rugăciune. Cele două căi. Ferirea de profeţii mincinoşi. Cele două temelii.
+            </button>
+        </div>
+        <div class="row">
+            <button class="col-xs-12 top-buffer" onclick="location.href = 'Explicatii.html'">
+                Părintele Bartolomeu Anania explică
+            </button>
+        </div>
+        <div class="row">
+            <button class="col-xs-12 top-buffer" onclick="location.href = 'Despre.html'">
+                Despre aplicație
+            </button>
+        </div>
+
+
+    </div>
     <!-- Cordova reference, this is added to your app when it's built. -->
     <script src="cordova.js"></script>
     <script src="scripts/platformOverrides.js"></script>
