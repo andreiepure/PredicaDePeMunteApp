@@ -1,0 +1,184 @@
+<h5 class="text-center">
+Predica de pe Munte; Fericirile. Apostolii sunt sarea pamântului si lumina lumii. Plinirea legii. Iubirea de vrajmasi.</h5>
+<ol>
+<li>Vazând Iisus multimile, S'a suit în munte: si sezând El, au venit la Dânsul ucenicii Sai</li>
+<li>Si, deschizându-Si gura, îi învata, zicând:</li>
+<li><button id="btn-5-3">„Fericiti cei saraci cu duhul a, ca a lor este împaratia cerurilor.</button></li>
+<li>Fericiti cei ce plâng, ca aceia se vor mângâia.</li>
+<li>Fericiti cei blânzi, ca aceia vor mosteni pamântul.</li>
+<li>Fericiti cei ce flamânzesc si înseteaza de dreptate, ca aceia se vor satura.</li>
+<li>Fericiti cei milostivi, ca aceia se vor milui.</li>
+<li>Fericiti cei curati cu inima, ca aceia vor vedea pe Dumnezeu.</li>
+<li>Fericiti facatorii de pace, ca aceia fiii lui Dumnezeu se vor chema.</li>
+<li>Fericiti cei prigoniti pentru dreptate, ca a lor este împaratia cerurilor.</li>
+<li><button id="btn-5-11">Fericiti veti fi când din pricina Mea va vor ocarî si va vor prigoni si, mintind, vor zice tot cuvântul rau împotriva voastra. b</button></li>
+<li>Bucurati-va si va veseliti, ca plata voastra multa este în ceruri, ca asa i-au prigonit pe profetii de dinaintea voastra.</li>
+<li>Voi sunteti sarea pamântului; daca sarea-si va pierde gustul, cu ce se va sara?; de nimic nu mai e buna, decât sa fie aruncata afara si calcata în picioare de oameni.</li>
+<li>Voi sunteti lumina lumii; nu poate sa se ascunda cetatea din vârful muntelui;</li>
+<li><button id="btn-5-15">nici aprinde cineva faclie si o pune sub obroc c, ci în sfesnic, si ea le lumineaza tuturor celor din casa.</button></li>
+<li>Asa sa lumineze lumina voastra înaintea oamenilor, încât ei sa vada faptele voastre cele bune si sa-L slaveasca pe Tatal vostru Cel din ceruri.</li>
+<li><button id="btn-5-17">Sa nu socotiti ca am venit sa stric legea sau profetii; n'am venit sa stric, ci sa plinesc d.</button></li>
+<li><button id="btn-5-18">Ca adevar va graiesc: Înainte de a trece cerul si pamântul, nici o iota sau o cirta e din lege nu va trece pâna ce toate se vor împlini.</button></li>
+<li>Asadar, cel ce va strica una din aceste porunci foarte mici si astfel îi va învata pe oameni, foarte mic se va chema în împaratia cerurilor; dimpotriva, cel ce le va face si astfel va învata, acela mare se va chema în împaratia cerurilor.</li>
+<li>Ca va spun: Daca dreptatea voastra n'o va întrece pe a carturarilor si a fariseilor, nu veti intra în împaratia cerurilor.</li>
+<li>Ati auzit ca s'a spus celor de demult: Sa nu ucizi; iar cel ce va ucide, vrednic este de judecata.</li>
+<li><button id="btn-5-22">Eu însa va spun: Oricine se mânie pe fratele sau, vrednic va fi de judecata; si cel ce-i va zice fratelui sau: Netrebnicule!, vrednic va fi de judecata sinedriului; iar cel ce-i zice: Nebunule!, vrednic va fi de gheena focului f.</button></li>
+<li>Deci, daca-ti vei aduce darul tau la altar si acolo îti vei aminti ca fratele tau are ceva împotriva-ti,</li>
+<li>lasa-ti darul acolo, înaintea altarului, mergi mai întâi si te împaca cu fratele tau si numai dupa aceea întoarce-te si adu-ti darul.</li>
+<li>Împaca-te cu pârâsul tau degraba, cât înca mai esti cu el pe cale, ca nu cumva pârâsul sa te dea pe mâna judecatorului, iar judecatorul pe aceea a slujbasului si sa fii aruncat în temnita;</li>
+<li>adevar îti spun: nu vei iesi de acolo pâna nu vei fi dat si cel din urma ban.</li>
+<li>Ati auzit ca s'a spus celor de demult: Sa nu te desfrânezi;</li>
+<li>Eu însa va spun ca oricine se uita la o femeie spre a o pofti s'a si desfrânat cu ea în inima lui.</li>
+<li><button id="btn-5-29">Iar daca ochiul tau cel drept îti devine piatra de poticnire g, scoate-l si arunca-l de la tine, ca mai bine îti este sa piara unul din madularele tale, iar nu tot trupul sa-ti fie aruncat în gheena.</button></li>
+<li>Si daca mâna ta cea dreapta îti devine piatra de poticnire, taie-o si arunc-o de la tine, ca mai bine îti este sa piara unul din madularele tale, iar nu tot trupul sa-ti fie aruncat în gheena.</li>
+<li><button id="btn-5-31">S'a mai spus: Cel ce-si va lasa femeia, sa-i dea carte de despartirea h.</button></li>
+<li>Eu însa va spun ca oricine-si va lasa femeia, în afara pricinii de desfrânare, o face sa savârseasca adulter; iar cel ce o va lua pe cea lasata, adulter savârseste.</li>
+<li>Ati auzit ca s'a spus celor de demult: Sa nu juri strâmb, ci juramintele tale sa le tii înaintea Domnului.</li>
+<li>Eu însa va spun: Sa nu te juri nicicum: nici pe cer, fiindca este tronul lui Dumnezeu;</li>
+<li>nici pe pamânt, fiindca este asternut al picioarelor Lui, nici pe Ierusalim, fiindca este cetate a Marelui Împarat;</li>
+<li>nici pe capul tau sa nu te juri, fiindca tu nu poti sa faci un singur fir de par, alb sau negru.</li>
+<li><button id="btn-5-37">Ci cuvântul vostru sa fie: Da, da; Nu, nu i; iar ce este mai mult decât atâta, de la Cel-Rau este.</button></li>
+<li>Ati auzit ca s'a spus: Ochi pentru ochi si dinte pentru dinte;</li>
+<li><button id="btn-5-39">Eu însa va spun: Nu stati împotriva celui rau j; iar celui ce te loveste peste obrazul drept, întoarce-i-l si pe celalalt.</button></li>
+<li>Celui ce vrea sa se judece cu tine si sa-ti ia haina, lasa-i lui si camasa.</li>
+<li>Iar de te va sili cineva sa mergi o mila, mergi cu el doua.</li>
+<li>Celui care cere de la tine, da-i; si celui ce vrea sa se împrumute de la tine, nu-i întoarce spatele.</li>
+<li>Ati auzit ca s'a spus: Sa-l iubesti pe aproapele tau si sa-l urasti pe vrajmasul tau;</li>
+<li>dar Eu va spun: Iubiti pe vrajmasii vostri, binecuvântati pe cei ce va blesteama, faceti bine celor ce va urasc si rugati-va pentru cei ce va vatama si va prigonesc,</li>
+<li>ca sa fiti fiii Tatalui vostru Celui din ceruri, ca El face sa rasara soarele Sau peste cei rai si peste cei buni si face sa ploua peste cei drepti si peste cei nedrepti.</li>
+<li><button id="btn-5-46">Ca daca-i iubiti pe cei ce va iubesc, ce rasplata veti avea? Oare vamesii k nu fac si ei la fel?</button></li>
+<li>Si daca-i îmbratisati doar pe fratii vostri, ce faceti mai mult? Oare pagânii nu fac si ei tot asa?</li>
+<li>Drept aceea, fiti voi desavârsiti, precum Tatal vostru Cel ceresc desavârsit este!</li>
+</ol>
+        <div class="modal fade" id="modal-5-3" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title text-center" id="myModalLabel">Parintele Bartolomeu explica</h4>
+                    </div>
+                    <div class="modal-body">„Cei saraci cu duhul“ (în nici un caz: Cei saraci cu intelectul!) are doua întelesuri, ambele duhovnicesti: 1) Saracul care si-a asumat launtric starea de saracie si o îndura cu demnitate umana si nadejde cereasca; bogatul care nu e dependent launtric de propria sa bogatie si care, atunci când o pierde, partial sau total, ramâne un om liber. 2) Pornind de la antropologia paulina, mistica rasariteana postuleaza ca duhul omului este partea superioara – fina, inefabila – a sufletului (fara a fi altceva decât acesta), prin care omul poate intra în contact direct (entaz) cu Duhul Sfânt. Pentru ca aceasta experienta sa fie posibila, e nevoie ca duhul omului sa devina „sarac“ de orice patimi sau impuritati; astfel eliberat, duhul devine disponibil pentru înduhovnicire si, în consecinta, pentru împaratia cerurilor. – Pe de alta parte, în limbajul evanghelic, termenul „sarac“ poate însemna si „smerit“, „umil“, „supus“, „ascultator“, având întotdeauna o conotatie pozitiva. – Sensul este înrudit cu acela al versetului 8: „Fericiti cei curati cu inima“.</div>
+                    <div class="modal-footer row"><button type="button" class="col-xs-12" data-dismiss="modal">Închide</button></div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" id="modal-5-11" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title text-center" id="myModalLabel">Parintele Bartolomeu explica</h4>
+                    </div>
+                    <div class="modal-body">„... mintind, vor zice tot cuvântul rau...“: Aici e vorba de calomnie: fericirea e fagaduita numai acelora care sunt vorbiti de rau fara nici o acoperire, pe nedrept, în chip mincinos. Sfântul Petru va atrage atentia crestinilor asupra acestui fapt (vezi 1 Ptr 2, 12 si 3, 16, precum si notele respective).</div>
+                    <div class="modal-footer row"><button type="button" class="col-xs-12" data-dismiss="modal">Închide</button></div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" id="modal-5-15" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title text-center" id="myModalLabel">Parintele Bartolomeu explica</h4>
+                    </div>
+                    <div class="modal-body">„Obroc“ (sau „oboroc“): vas mare, de lemn, folosit ca unitate de masurat cerealele; banita; mierta; banicior. Rar folosit în limba curenta, cuvântul (de origine ucraineana) s'a încetatenit în expresia biblica „a tine lumina sub obroc“ = a ascunde un adevar sau o valoare spirituala.</div>
+                    <div class="modal-footer row"><button type="button" class="col-xs-12" data-dismiss="modal">Închide</button></div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" id="modal-5-17" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title text-center" id="myModalLabel">Parintele Bartolomeu explica</h4>
+                    </div>
+                    <div class="modal-body">Contextual, în N. T., „legea“ era cea data de Dumnezeu prin Moise. Verbul a (se) plini îsi are dublul sau înteles: pe acela de a adeveri, a face ca o profetie sa devina realitate (ca în Mt 1, 22; 2, 15; 2, 17 etc.) si pe acela de a face, a savârsi, a întregi, a împlini, a completa, a duce la capat, a desavârsi.</div>
+                    <div class="modal-footer row"><button type="button" class="col-xs-12" data-dismiss="modal">Închide</button></div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" id="modal-5-18" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title text-center" id="myModalLabel">Parintele Bartolomeu explica</h4>
+                    </div>
+                    <div class="modal-body">Mici semne grafice din alfabetul limbilor biblice. Asadar: cele mai mici amanunte. </div>
+                    <div class="modal-footer row"><button type="button" class="col-xs-12" data-dismiss="modal">Închide</button></div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" id="modal-5-22" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title text-center" id="myModalLabel">Parintele Bartolomeu explica</h4>
+                    </div>
+                    <div class="modal-body">Gheena: vechea vale a lui Hinom, în care pagânii canaaneeni îsi ardeau copiii ca jertfa zeilor Baal si Moloh (Ir 32, 35). Situata la marginea Ierusalimului, în ea se depozitau si ardeau în permanenta gunoaiele orasului. Metafora pentru chinurile vesnice ale pacatosilor. În textul de fata: instanta ultima si irevocabila, dupa cea a judecatoriei simple si dupa aceea a sinedriului (tribunalul suprem).</div>
+                    <div class="modal-footer row"><button type="button" class="col-xs-12" data-dismiss="modal">Închide</button></div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" id="modal-5-29" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title text-center" id="myModalLabel">Parintele Bartolomeu explica</h4>
+                    </div>
+                    <div class="modal-body">Te îndeamna sau te predispune la pacat.</div>
+                    <div class="modal-footer row"><button type="button" class="col-xs-12" data-dismiss="modal">Închide</button></div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" id="modal-5-31" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title text-center" id="myModalLabel">Parintele Bartolomeu explica</h4>
+                    </div>
+                    <div class="modal-body">Act de divort.</div>
+                    <div class="modal-footer row"><button type="button" class="col-xs-12" data-dismiss="modal">Închide</button></div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" id="modal-5-37" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title text-center" id="myModalLabel">Parintele Bartolomeu explica</h4>
+                    </div>
+                    <div class="modal-body">Raspuns la întrebare; sinceritatea afirmatiei; întarirea adevarului. </div>
+                    <div class="modal-footer row"><button type="button" class="col-xs-12" data-dismiss="modal">Închide</button></div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" id="modal-5-39" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title text-center" id="myModalLabel">Parintele Bartolomeu explica</h4>
+                    </div>
+                    <div class="modal-body">A nu-l întâmpina pe cel rau cu rau, cu gând de razbunare, asa cum prevedea legea talionului la care Se refera Iisus; porunca nu exclude atitudinea demna fata de omul rau (vezi In 18, 22) sau combaterea raului din lume.</div>
+                    <div class="modal-footer row"><button type="button" class="col-xs-12" data-dismiss="modal">Închide</button></div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" id="modal-5-46" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title text-center" id="myModalLabel">Parintele Bartolomeu explica</h4>
+                    </div>
+                    <div class="modal-body">Perceptori de impozite, faimosi prin coruptia, abuzurile si raptul cu care-si practicau meseria. În limbajul biblic, oameni pacatosi.</div>
+                    <div class="modal-footer row"><button type="button" class="col-xs-12" data-dismiss="modal">Închide</button></div>
+                </div>
+            </div>
+        </div>

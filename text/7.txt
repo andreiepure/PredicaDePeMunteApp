@@ -1,0 +1,105 @@
+<h5 class="text-center">
+Judecarea fratelui. Puterea staruintei în rugaciune. Cele doua cai. Ferirea de profetii mincinosi. Cele doua temelii.</h5>
+<ol>
+<li><button id="btn-7-1">Nu judecati, ca sa nu fiti judecati a;</button></li>
+<li>caci cu judecata cu care judecati, cu aceea veti fi judecati; si cu masura cu care masurati, cu aceea vi se va masura.</li>
+<li>Cum de vezi paiul din ochiul fratelui tau, dar bârna din ochiul tau nu o iei în seama?</li>
+<li>Sau cum îi vei zice fratelui tau: Lasa-ma sa-ti scot paiul din ochi!, si iata ca'n ochiul tau este bârna?</li>
+<li>Fatarnicule, scoate mai întâi bârna din ochiul tau si numai atunci vei vedea sa scoti paiul din ochiul fratelui tau.</li>
+<li><button id="btn-7-6">Nu dati cele sfinte b câinilor, nici nu aruncati margaritarele voastre înaintea porcilor, ca nu cumva sa le calce în picioare si, întorcându-se, sa va sfâsie.</button></li>
+<li>Cereti si vi se va da; cautati si veti afla; bateti si vi se va deschide;</li>
+<li>ca oricine cere, primeste; cel ce cauta, afla; si celui ce bate i se va deschide.</li>
+<li>Cine oare este omul acela dintre voi caruia fiul sau îi va cere pâine si el îi va da piatra?;</li>
+<li>sau, de-i va cere peste, el îi va da sarpe?</li>
+<li>Deci, daca voi, rai fiind, stiti sa dati daruri bune fiilor vostri, cu cât mai mult Tatal vostru Cel din ceruri va da cele bune celor care cer de la El!</li>
+<li><button id="btn-7-12">Asadar, pe toate câte vreti sa vi le faca voua oamenii, întocmai faceti-le si voi lor; ca aceasta este legea si profetii c.</button></li>
+<li>Intrati pe poarta cea strâmta; ca larga este poarta – si lat este drumul ce duce la pieire si multi sunt cei ce intra prin el;</li>
+<li>si strâmta este poarta – si îngust este drumul ce duce la viata si putini sunt cei ce îl afla.</li>
+<li><button id="btn-7-15">Feriti-va de profetii mincinosi, care vin la voi în haine de oi d, iar pe dinlauntru sunt lupi rapitori.</button></li>
+<li>Dupa roadele lor îi veti cunoaste. Au doara se culeg struguri din spini sau smochine din maracini?</li>
+<li>Asa ca orice pom bun face roade bune, iar pomul rau face roade rele.</li>
+<li>Nu poate pomul bun sa faca roade rele, nici pomul rau sa faca roade bune.</li>
+<li>Iar orice pom care nu face roada buna se taie si se arunca în foc.</li>
+<li>De aceea, dupa roadele lor îi veti cunoaste.</li>
+<li>Nu tot cel ce-Mi zice: Doamne, Doamne! va intra în împaratia cerurilor, ci acela care face voia Tatalui Meu Celui din ceruri.</li>
+<li>Multi Îmi vor spune în ziua aceea: Doamne, Doamne, oare nu în numele Tau am profetit? si nu în numele Tau demoni am scos? si nu în numele Tau multe minuni am facut?</li>
+<li>Si atunci le voi marturisi: Niciodata nu v'am cunoscut pe voi. Departati-va de la Mine, voi, cei ce lucrati faradelegea!</li>
+<li><button id="btn-7-24">De aceea, tot cel ce aude aceste cuvinte ale Mele si le plineste e, i se va asemana barbatului întelept care si-a cladit casa pe stânca.</button></li>
+<li>Si a cazut ploaia si au venit puhoaiele si au suflat vânturile si au izbit în casa aceea, dar ea n'a cazut, fiindca era întemeiata pe stânca.</li>
+<li>Dar cel ce aude aceste cuvinte ale Mele si nu le plineste, i se va asemana barbatului nechibzuit care si-a cladit casa pe nisip.</li>
+<li>Si a cazut ploaia si au venit puhoaiele si au suflat vânturile si au izbit în casa aceea si ea a cazut. Si mare i-a fost caderea!“</li>
+<li>Iar când Iisus a sfârsit cuvintele acestea, multimile erau uimite de învatatura Lui,</li>
+<li><button id="btn-7-29">ca îi învata ca unul care are putere f, iar nu cum îi învatau carturarii lor.</button></li>
+</ol>
+        <div class="modal fade" id="modal-7-1" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title text-center" id="myModalLabel">Parintele Bartolomeu explica</h4>
+                    </div>
+                    <div class="modal-body">Nu-i judecati pe semeni, ca sa nu fiti judecati de Dumnezeu. Omul e înclinat sa evalueze excesiv faptele altora si sa le condamne cu usurinta, absolvindu-se pe sine. O judecata dreapta nu e posibila fara a cunoaste toate datele problemei; Dumnezeu este singurul judecator real, El fiind singurul care cunoaste si datele launtrice ale fiintei omenesti.</div>
+                    <div class="modal-footer row"><button type="button" class="col-xs-12" data-dismiss="modal">Închide</button></div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" id="modal-7-6" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title text-center" id="myModalLabel">Parintele Bartolomeu explica</h4>
+                    </div>
+                    <div class="modal-body">Este vorba de carnurile sfintite dupa ritualul ebraic spre a fi aduse ca jertfa pe altar. Ideea întregului verset este aceea ca adevarurile sfinte, daca sunt lasate pe seama celor ce nu pot sa le înteleaga, risca sa fie profanate si sa se întoarca împotriva celor ce nu le-au administrat cum trebuie.</div>
+                    <div class="modal-footer row"><button type="button" class="col-xs-12" data-dismiss="modal">Închide</button></div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" id="modal-7-12" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title text-center" id="myModalLabel">Parintele Bartolomeu explica</h4>
+                    </div>
+                    <div class="modal-body">Tot ceea ce au învatat Moise si profetii Vechiului Testament se cuprinde în aceasta regula de aur.</div>
+                    <div class="modal-footer row"><button type="button" class="col-xs-12" data-dismiss="modal">Închide</button></div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" id="modal-7-15" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title text-center" id="myModalLabel">Parintele Bartolomeu explica</h4>
+                    </div>
+                    <div class="modal-body">Maestrii minciunii, care se deghizeaza în învatatori ai blândetii si adevarului spre a-si apropia pe cei naivi.</div>
+                    <div class="modal-footer row"><button type="button" class="col-xs-12" data-dismiss="modal">Închide</button></div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" id="modal-7-24" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title text-center" id="myModalLabel">Parintele Bartolomeu explica</h4>
+                    </div>
+                    <div class="modal-body">= Le traduce în fapta; le pune în practica.</div>
+                    <div class="modal-footer row"><button type="button" class="col-xs-12" data-dismiss="modal">Închide</button></div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" id="modal-7-29" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title text-center" id="myModalLabel">Parintele Bartolomeu explica</h4>
+                    </div>
+                    <div class="modal-body">În sensul de autoritate divina, ascendenta morala.</div>
+                    <div class="modal-footer row"><button type="button" class="col-xs-12" data-dismiss="modal">Închide</button></div>
+                </div>
+            </div>
+        </div>

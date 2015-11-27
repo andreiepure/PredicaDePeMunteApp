@@ -1,0 +1,32 @@
+     <ol>
+                <li>Vazând Iisus multimile, S'a suit în munte: si sezând El, au venit la Dânsul ucenicii Sai</li>
+                <li>Si, deschizându-Si gura, îi învata, zicând:</li>
+                <li>
+                    <button id="btn-5-3">
+                        „Fericiti cei saraci cu duhul, ca a lor este împaratia cerurilor.
+                    </button>
+                </li>
+            </ol>
+
+            <div class="row">
+                <button class="col-xs-4" onclick="location.href = 'Explicatii5.html'">explica?ii</button>
+                <button class="col-xs-4" onclick="location.href = 'Matei6.html'">urmatorul capitol</button>
+                <button class="col-xs-4" onclick="location.href = 'index.html'">meniu</button>
+            </div>
+            <!-- Modal -->
+            <div class="modal fade" id="modal-5-3" tabindex="-1" role="dialog">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                            <h4 class="modal-title text-center" id="myModalLabel">Parintele Bartolomeu explica</h4>
+                        </div>
+                        <div class="modal-body">
+                            „Cei saraci cu duhul“ (în nici un caz: Cei saraci cu intelectul!) are doua întelesuri, ambele duhovnicesti: 1) Saracul care si-a asumat launtric starea de saracie si o îndura cu demnitate umana si nadejde cereasca; bogatul care nu e dependent launtric de propria sa bogatie si care, atunci când o pierde, partial sau total, ramâne un om liber. 2) Pornind de la antropologia paulina, mistica rasariteana postuleaza ca duhul omului este partea superioara – fina, inefabila – a sufletului (fara a fi altceva decât acesta), prin care omul poate intra în contact direct (entaz) cu Duhul Sfânt. Pentru ca aceasta experienta sa fie posibila, e nevoie ca duhul omului sa devina „sarac“ de orice patimi sau impuritati; astfel eliberat, duhul devine disponibil pentru înduhovnicire si, în consecinta, pentru împaratia cerurilor. – Pe de alta parte, în limbajul evanghelic, termenul „sarac“ poate însemna si „smerit“, „umil“, „supus“, „ascultator“, având întotdeauna o conotatie pozitiva. – Sensul este înrudit cu acela al versetului 8: „Fericiti cei curati cu inima“.
+                        </div>
+                        <div class="modal-footer row">
+                            <button type="button" class="col-xs-12" data-dismiss="modal">Închide</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
