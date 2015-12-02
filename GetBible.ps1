@@ -58,6 +58,8 @@ for ($chapter = $firstChaper; $chapter -le $lastChapter; $chapter++)
 
     Add-Content $path "<h5 class=""text-center"">$description</h5>";
     Add-Content $path "<ol>";
+    Write-Host "<h5 class=""text-center"">$description</h5>";
+    Write-Host "<ol>";
 
     $chapterVerses = @();
     $chapterAddnotations = @();
@@ -92,20 +94,24 @@ for ($chapter = $firstChaper; $chapter -le $lastChapter; $chapter++)
 
             # Write the button that will open the modal
             Add-Content $path "<li><button id=""btn-$chapter-$verseNumber"">$text</button></li>";
+             Write-Host "<li><button id=""btn-$chapter-$verseNumber"">$text</button></li>";
         }
         else
         {
             Add-Content $path "<li>$text</li>";
+             Write-Host "<li>$text</li>";
         }
 
         $verseNumber++;
     }
     Add-Content $path "</ol>";
+    Write-Host  "<li>$text</li>";
 
     # write the annotation modal
     foreach($addnotation in $chapterAddnotations)
     {
         $components = $addnotation.Split("_");
         Add-Content $path (Format-Addnotation-Modal $chapter $components[0] $components[1]);
+        Write-Host  (Format-Addnotation-Modal $chapter $components[0] $components[1]);
     }
 }
