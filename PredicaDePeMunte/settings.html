@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Setări</title>
+
+    <!-- PredicaDePeMunte references -->
+    <link href="css/bootstrap.css" rel="stylesheet" />
+    <!-- this has to be after the bootstrap ref because it has overrides -->
+    <link href="css/index.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container-fluid text-center">
+        <h2 class="text-center">Setări</h2>
+
+        <div class="row">
+            <h3>Schimbați mărimea scrisului</h3>
+            <select id="font-size-selector">
+                <option value="xx-large">Imens</option>
+                <option value="x-large">Mare</option>
+                <option value="large" selected>Mediu</option>
+                <option value="medium">Mic</option>
+                <option value="small">Foarte mic</option>
+            </select> 
+
+        </div>
+        <div class="btn-group-vertical btn-group-lg">
+            <button class="btn btn-large col-xs-4" onclick="location.href = 'index.html'">meniu principal</button>
+         </div>
+     </div>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="scripts/jquery-1.11.3.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="scripts/bootstrap.min.js"></script>
+    <script src="scripts/settings.js"></script>
+    <script src="scripts/modernizr-custom.js"></script>
+</body>
+</html>

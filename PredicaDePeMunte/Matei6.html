@@ -2,8 +2,10 @@
 <html>
 <head>
     <title>Matei 6</title>
-    <link href="css/index.css" rel="stylesheet" />
     <link href="css/bootstrap.css" rel="stylesheet" />
+    <!-- this has to be after the bootstrap ref because it has overrides -->
+    <link href="css/index.css" rel="stylesheet" />
+
 </head>
 <body>
 
@@ -85,7 +87,7 @@
                     <div class="modal-body">
                         În traducere literală: dreptatea voastră (adică practicarea faptelor bune, prin care omul devine drept înaintea lui Dumnezeu).
                     </div>
-                    <div class="modal-footer row"><button type="button" class="col-xs-12" data-dismiss="modal">Închide</button></div>
+                    <div class="modal-footer row"><button class="btn btn-large col-xs-12" data-dismiss="modal">Închide</button></div>
                 </div>
             </div>
         </div>
@@ -101,7 +103,7 @@
                     <div class="modal-body">
                         Ipocriţi, oameni care afişează o pietate falsă, fără acoperire lăuntrică; în mod curent, termenul se referă la cei din secta fariseilor.
                     </div>
-                    <div class="modal-footer row"><button type="button" class="col-xs-12" data-dismiss="modal">Închide</button></div>
+                    <div class="modal-footer row"><button class="btn btn-large col-xs-12" data-dismiss="modal">Închide</button></div>
                 </div>
             </div>
         </div>
@@ -119,7 +121,7 @@
                         „Cea spre fiinţă“, expresie folosită în unele versiuni, nu traduce exact cuvântul original, dar nici nu constituie o erezie;
                         Sfinţii Părinţi i-au imprimat şi o dimensiune duhovnicească, euharistică.
                     </div>
-                    <div class="modal-footer row"><button type="button" class="col-xs-12" data-dismiss="modal">Închide</button></div>
+                    <div class="modal-footer row"><button class="btn btn-large col-xs-12" data-dismiss="modal">Închide</button></div>
                 </div>
             </div>
         </div>
@@ -138,7 +140,7 @@
                         greşalele înseamnă încălcarea datoriilor morale pe care oamenii le contractează nu numai faţă de
                         Dumnezeu, ci şi de semenii lor, atât prin răul pe care-l fac, cât şi prin binele pe care nu-l fac.
                     </div>
-                    <div class="modal-footer row"><button type="button" class="col-xs-12" data-dismiss="modal">Închide</button></div>
+                    <div class="modal-footer row"><button class="btn btn-large col-xs-12" data-dismiss="modal">Închide</button></div>
                 </div>
             </div>
         </div>
@@ -155,7 +157,7 @@
                         În înţelesul de „nu ne lăsa să cădem în ispită“ sau „fereşte-ne de prilejul ispitei“.
                         De altfel, ispita nu e o cădere propriu-zisă, ci o încercare sau un examen prin care cineva poate să cadă; o probă de foc.
                     </div>
-                    <div class="modal-footer row"><button type="button" class="col-xs-12" data-dismiss="modal">Închide</button></div>
+                    <div class="modal-footer row"><button class="btn btn-large col-xs-12" data-dismiss="modal">Închide</button></div>
                 </div>
             </div>
         </div>
@@ -172,7 +174,7 @@
                         Metaforă pentru lumina spirituală pe care o izvorăşte sufletul;
                          dacă sufletul în sine este întuneric, totul este întuneric.
                     </div>
-                    <div class="modal-footer row"><button type="button" class="col-xs-12" data-dismiss="modal">Închide</button></div>
+                    <div class="modal-footer row"><button class="btn btn-large col-xs-12" data-dismiss="modal">Închide</button></div>
                 </div>
             </div>
         </div>
@@ -186,16 +188,15 @@
                         <h4 class="modal-title text-center" id="myModalLabel">Părintele Bartolomeu explică</h4>
                     </div>
                     <div class="modal-body">Mamona: demonul banului, al avariţiei, al egoismului, al posesiunilor materiale.</div>
-                    <div class="modal-footer row"><button type="button" class="col-xs-12" data-dismiss="modal">Închide</button></div>
+                    <div class="modal-footer row"><button class="btn btn-large col-xs-12" data-dismiss="modal">Închide</button></div>
                 </div>
             </div>
         </div>
 
-        <div class="row">
-            <button class="col-xs-4" onclick="location.href = 'Matei5.html'">Matei 5</button>
-            <button class="col-xs-4" onclick="location.href = 'Matei7.html'">Matei 7</button>
-            <button class="col-xs-4" onclick="location.href = 'index.html'">meniu</button>
-        </div>
+        <div class="btn-group-vertical btn-group-lg">
+            <button class="btn btn-large" onclick="location.href = 'index.html'">meniu principal</button>
+            <button class="btn btn-large" onclick="    location.href = 'Matei7.html'">următorul capitol</button>
+         </div>
     </div>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
@@ -203,5 +204,6 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="scripts/bootstrap.min.js"></script>
     <script src="scripts/matei6.js"></script>
+    <script src="scripts/modernizr-custom.js"></script>
 </body>
 </html>

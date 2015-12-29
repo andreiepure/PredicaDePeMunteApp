@@ -123,6 +123,8 @@
     <Content Include="Matei7.html" />
     <Content Include="merges\android\scripts\android2.3-jscompat.js" />
     <Content Include="merges\android\scripts\platformOverrides.js" />
+    <Content Include="scripts\settings.js" />
+    <Content Include="settings.html" />
     <Folder Include="merges\ios\" />
     <Content Include="merges\windows\scripts\platformOverrides.js" />
     <Content Include="merges\windows\scripts\winstore-jscompat.js" />
@@ -148,6 +150,7 @@
     <Content Include="scripts\matei5.js" />
     <Content Include="scripts\matei6.js" />
     <Content Include="scripts\matei7.js" />
+    <Content Include="scripts\modernizr-custom.js" />
     <Content Include="scripts\npm.js" />
     <Content Include="scripts\platformOverrides.js" />
     <Content Include="css\index.css" />
