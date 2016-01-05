@@ -1,26 +1,21 @@
 ﻿(function () {
+
     $(document).ready(function () {
-
         if (Modernizr.localstorage) {
-            var foo = localStorage.getItem('fontSize');
-            console.log(foo);
-            if (foo != null)
+            var storedFontSize = localStorage.getItem('fontSize');
+            if (storedFontSize != null)
             {
-                var myElements = document.querySelectorAll('li');
-                for (var i = 0; i < myElements.length; i++) {
-                    myElements[i].style.fontSize = foo;
+                var allSelectors = ['.btn', 'li', '.modal-body', '.modal-footer', '.modal-title' ];
+                for (var selectorIndex = 0; selectorIndex < allSelectors.length; selectorIndex++) {
+                    var myElements = document.querySelectorAll(allSelectors[selectorIndex]);
+                    for (var i = 0; i < myElements.length; i++) {
+                        myElements[i].style.fontSize = storedFontSize;
+                    }
                 }
-                var myElements = document.querySelectorAll('.modal-body');
-                for (var i = 0; i < myElements.length; i++) {
-                    myElements[i].style.fontSize = foo;
-                }
-
-
             }
         } else {
             console.log("local storage not available");
         }
-
 
         $("#btn-7-1").click(function () {
             $("#modal-7-1").modal();

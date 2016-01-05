@@ -123,6 +123,8 @@
     <Content Include="Matei7.html" />
     <Content Include="merges\android\scripts\android2.3-jscompat.js" />
     <Content Include="merges\android\scripts\platformOverrides.js" />
+    <Content Include="scripts\despre.js" />
+    <Content Include="scripts\menu.js" />
     <Content Include="scripts\settings.js" />
     <Content Include="settings.html" />
     <Folder Include="merges\ios\" />
