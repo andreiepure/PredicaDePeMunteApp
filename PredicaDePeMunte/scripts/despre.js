@@ -4,7 +4,7 @@
         if (Modernizr.localstorage) {
             var storedFontSize = localStorage.getItem('fontSize');
             if (storedFontSize != null) {
-                var allSelectors = ['li', '.row'];
+                var allSelectors = ['li', '.btn', '.row'];
                 for (var selectorIndex = 0; selectorIndex < allSelectors.length; selectorIndex++) {
                     var myElements = document.querySelectorAll(allSelectors[selectorIndex]);
                     for (var i = 0; i < myElements.length; i++) {
