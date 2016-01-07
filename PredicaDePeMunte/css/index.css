@@ -1,11 +1,41 @@
-﻿body {
+﻿body
+{
+    background-color: white;
+    color: black;
 }
 
-.top-buffer{
+.inverted
+{
+    background-color: black;
+    color: white;
+}
+
+.modal-content.inverted
+{
+  border: 1px solid white;
+  -webkit-box-shadow: 0 3px 9px rgba(f, f, f, .5);
+          box-shadow: 0 3px 9px rgba(255, 255, 255, .5);
+}
+
+select.inverted
+{
+    background-color: white;
+    color: black;
+}
+
+.top-buffer
+{
     margin-top: 20px;
 }
 
-.btn{
+button
+{
+    color: black;
+}
+
+.btn
+{
+    color: black;
     white-space: normal !important;
     margin-top: 2%;
     margin-bottom: 2%;
@@ -17,10 +47,17 @@ li{
     font-size: large;
 }
 
-select {
+select
+{
     font-size: large;
 }
 
-.modal-body {
+.praise
+{
+    font-size: large;
+}
+
+.modal-body
+{
     font-size: large;
 }

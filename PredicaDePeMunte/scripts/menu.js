@@ -2,6 +2,8 @@
     $(document).ready(function () {
 
         if (Modernizr.localstorage) {
+            UpdateTheme(localStorage.getItem('theme'));
+
             var storedFontSize = localStorage.getItem('fontSize');
             if (storedFontSize != null) {
                 var allSelectors = ['.btn'];

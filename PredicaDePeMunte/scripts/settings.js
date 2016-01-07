@@ -21,11 +21,17 @@
 
         if (Modernizr.localstorage) {
             var storedFontSize = localStorage.getItem('fontSize');
-            console.log(storedFontSize);
             if (storedFontSize != null)
             {
                 $('select option[value="' + storedFontSize + '"]').attr("selected", true);
                 UpdateExample(storedFontSize);
+            }
+
+            var storedTheme = localStorage.getItem('theme');
+            if (storedTheme != null)
+            {
+                $('select option[value="' + storedTheme + '"]').attr("selected", true);
+                UpdateTheme(storedTheme);
             }
         } else {
             // TODO how to send myself logs? for V2?
@@ -36,6 +42,16 @@
             if (Modernizr.localstorage) {
                 localStorage.setItem('fontSize', this.value);
                 UpdateExample(this.value);
+            }
+            else {
+                console.log("local storage not available");
+            }
+        });
+
+        $('#theme-selector').change(function () {
+            if (Modernizr.localstorage) {
+                localStorage.setItem('theme', this.value);
+                UpdateTheme(this.value);
             }
             else {
                 console.log("local storage not available");
